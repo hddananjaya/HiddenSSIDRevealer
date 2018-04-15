@@ -10,7 +10,7 @@ https://supportforums.cisco.com/t5/wireless-mobility-documents/802-11-frames-a-s
 
 This page contains WireShark filter values, which are identicators of frames. But when we filtering frames with
 NodeMCU, need to pass 'Frame Control Field' value to filter parameters. To know that hex value we can simply reverse the digit part of wireshark filter values (0x04 --> 0x40) or can use WireShark to see it. 
-It can be found under IEEE 802.11 <frame subtype>/Frame Control Field.
+It can be found under IEEE 802.11 &lt;frame subtype&gt;/Frame Control Field.
 
 aircrack-ng + WireShark + inbuilt Intel WLAN chipset is capable of receiving raw packets on Kali Linux.
 
