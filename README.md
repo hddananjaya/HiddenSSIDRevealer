@@ -14,4 +14,4 @@ It can be found under IEEE 802.11 &lt;frame subtype&gt;/Frame Control Field.
 
 aircrack-ng + WireShark + inbuilt Intel WLAN chipset is capable of receiving raw packets on Kali Linux.
 
-Hence Nodemcu is small, can power up using a mobile, has inbuilt wifi adapter, we can do more interesting stuff with it..
+Hence Nodemcu is small, can power up using a mobile, has inbuilt wifi adapter, we can do more interesting stuff with it.
